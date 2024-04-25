@@ -1,1 +1,1 @@
-All projects utilizing PyTorch.
+All projects utilizing PyTorch. Check the .ipynb extensions.
